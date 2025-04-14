@@ -14,3 +14,8 @@ docs:
     source: dochub.welcome.md
     location: /Документы/Hello World
     title: Hello World
+  dochub.welcome.doc1744647446216:
+    type: excalidraw
+    source: auto-1744647446166-8716.excalidraw
+    location: /Документы/Model
+    title: Model

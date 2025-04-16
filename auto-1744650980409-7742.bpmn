@@ -91,12 +91,12 @@
         <di:waypoint x="635" y="280" />
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_1oc8olw_di" bpmnElement="Flow_1oc8olw">
-        <di:waypoint x="649" y="266" />
-        <di:waypoint x="570" y="160" />
-        <di:waypoint x="520" y="160" />
-        <di:waypoint x="396" y="240" />
+        <di:waypoint x="648" y="267" />
+        <di:waypoint x="570" y="180" />
+        <di:waypoint x="520" y="180" />
+        <di:waypoint x="400" y="240" />
         <bpmndi:BPMNLabel>
-          <dc:Bounds x="517" y="142" width="56" height="27" />
+          <dc:Bounds x="517" y="156" width="56" height="27" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="DataInputAssociation_1ood21i_di" bpmnElement="DataInputAssociation_1ood21i">

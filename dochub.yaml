@@ -19,3 +19,37 @@ docs:
     source: auto-1744647446166-8716.excalidraw
     location: /Документы/Model
     title: Model
+  doc1744649451296:
+    type: vscode
+    extension: drawio
+    source: auto-1744649451241-7112.drawio
+    location: /Новый документ 1744649451296
+    title: Новый документ 1744649451296
+
+  openapi:
+    type: openapi
+    source: openapi.yaml
+    location: /Openapi
+    title: Openapi
+
+  openapi2:
+    type: openapi
+    source: openapi.test.yaml
+    location: /Документы.Openapi2
+    title: Openapi2
+  openapi2.doc1744650284513:
+    type: openapi
+    source: auto-1744650284451-2370.yaml
+    location: /Документы.Openapi2/Тест опенапи с отступами
+    title: Тест опенапи с отступами
+
+  openapi3:
+    type: openapi
+    source: openapi2.yaml
+    location: /Документы/Openapi2Ident тест с отступами
+    title: Тест опенапи с отступами
+  openapi3.doc1744650980474:
+    type: bpmnjs
+    source: auto-1744650980409-7742.bpmn
+    location: /Документы/BPMN test
+    title: BPMN test

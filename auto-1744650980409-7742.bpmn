@@ -113,11 +113,9 @@
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_1ridk7l_di" bpmnElement="Flow_1ridk7l">
         <di:waypoint x="945" y="280" />
-        <di:waypoint x="1039" y="280" />
-        <di:waypoint x="1039" y="270" />
-        <di:waypoint x="1132" y="270" />
+        <di:waypoint x="1132" y="280" />
         <bpmndi:BPMNLabel>
-          <dc:Bounds x="1045" y="266" width="70" height="27" />
+          <dc:Bounds x="992" y="276" width="70" height="27" />
         </bpmndi:BPMNLabel>
       </bpmndi:BPMNEdge>
       <bpmndi:BPMNEdge id="Flow_0xog6n0_di" bpmnElement="Flow_0xog6n0">
